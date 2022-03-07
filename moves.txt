@@ -1,0 +1,661 @@
+Name;Type;Class;Accuracy;Damage;Added effect
+Absorb;Grass;Special;Dexterity + Channel;Special + 1;The user restores HP equal to half the damage dealt rounded down.
+Acid;Poison;Special;Dexterity + Channel;Special + 2;Target all foes. Roll 1 chance die to reduce all foes' Sp. Defense by 1.
+Acid Armor;Poison;Support;Special + Nature;None;Increase the user's Defense by 2.
+Acid Spray;Poison;Special;Dexterity + Channel;Special + 2;Reduce the foe's Special by 2.
+Acrobatics;Flying;Physical;Dexterity + Brawl;Strength + 4*;If the user has a held item, remove 2 dice from the damage pool.
+Acupressure;Normal;Support;Dexterity + Nature;None;Increase a random Attribute by 1. If this move is used again, remove the previous Attribute increase.
+Aerial Ace;Flying;Physical;Dexterity + Brawl;Strength + 2;Never fails.
+Aeroblast;Flying;Special;Special + Channel;Special + 4;Lethal. High Critical.
+After You;Normal;Support;Cool + Etiquette;None;Target ally will go first in the initiative order. Lasts for the rest of the battle.
+Agility;Psychic;Support;Dexterity + Athletic;None;Increase the user's Dexterity by 2.
+Air Cutter;Flying;Special;Dexterity + Channel;Special + 2;Target all foes. High Critical.
+Air Slash;Flying;Special;Dexterity + Channel;Special + 3;Roll 3 chance dice to flinch the foe.
+Ally Switch;Psychic;Support;Special + Channel;None;Switcher Move. The user switches out with an ally. The ally is ready to fight on the next round.
+Amnesia;Psychic;Support;Insight + Alert;None;Increase the user's Sp. Defense by 2.
+Anchor Shot;Steel;Physical;Dexterity + Brawl;Strength + 3;Ranged. Blocks.
+Ancient Power;Rock;Special;Dexterity + Channel;Special + 2;Roll 1 chance die to increase the user's Strength, Dexterity, Special, Sp. Defense, and Defense by 1.
+Aqua Jet;Water;Physical;Dexterity + Brawl;Strength + 2;Priority 1.
+Aqua Ring;Water;Support;Special + Nature;None;If succesful, spend 1 Will to activate. The user heals 1 HP at the end of each round. Lasts 4 rounds.
+Aqua Tail;Water;Physical;Dexterity + Brawl;Strength + 3;Accuracy -1. Roll 3 chance dice to Flinch the foe.
+Arm Thrust;Fight;Physical;Dexterity + Brawl;Strength + 1;Multiple Actions (5).
+Aromatic Mist;Fairy;Support;Insight + Nature;None;Increase one ally's Defense and Sp. Defense by 1.
+Aromatherapy;Grass;Support;Insight + Nature;None;Cure user and allies of Burn, Freeze, Paralysis, Poison, or Sleep.
+Assist;Normal;Support;Clever + Perform;Varies;Choose one move known by a random member of your party. Perform that move using the accuracy roll from Assist.
+Assurance;Dark;Physical;Dexterity + Brawl;Strength + 2*;If the foe has already received damage from a move this round, add 2 extra dice to the damage pool.
+Astonish;Ghost;Physical;Dexterity + Brawl;Strength + 1;Roll 3 chance dice to flinch the foe.
+Attack Order;Bug;Physical;Tough + Nature;Strength + 3;Ranged. High Critical.
+Attract;Normal;Support;Beauty + Allure;None;If succesful, target is now in Love. Fails if target is genderless or same gender as the user.
+Aura Sphere;Fight;Special;Dexterity + Channel;Special + 3;Never fails.
+Aura Wheel;Electric;Physical;Dexterity + Brawl;Strength + 4;INcrease the user's Dexterity by 1. If the user is in "Hangry Form", this move is considered Dark-type.
+Aurora Beam;Ice;Special;Dexterity + Channel;Special + 2;Roll 1 chance die to reduce the foe's Strength by 1.
+Aurora Veil;Ice;Support;Special + Channel;None;User and Allies will receive 1 less damage from Physical and Special attacks. This move will fail if the active Weather is not Hail. Lasts 4 rounds, even if Hail Weather is no longer active.
+Autotomize;Steel;Support;Dexterity + Channel;None;Increase the user's Dexterity by 2. Halve the user's weight for the rest of the scene.
+Avalanche;Ice;Physical;Dexterity + Brawl;Strength + 2*;Priority -4. If the user received damage from the target this round, add 2 extra dice to the damage pool.
+Baby-Doll Eyes;Fairy;Support;Cute + Allure;None;Priority 1. Reduce the foe's Strength by 1.
+Baddy Bad;Dark;Special;Dexterity + Channel;Special + 3;If successful, for the next 4 rounds, the user and allies receives 1 less damage from Physical attacks. This effect does not stack. If the user is at its final evolution stage, this move fails.
+Baneful Bunker;Poison;Support;Vitality + Nature;None;Priority 4. Shield Move. If the foe attacked using a Physical Move, it is now Poisoned. Remove 3 dice from the foe's damage pool.
+Barrage;Normal;Physical;Dexterity + Brawl;Strength + 1;Accuracy -1. Ranged. Multiple Actions (5).
+Barrier;Psychic;Support;Special + Channel;None;Increase the user's Defense.
+Baton Pass;Normal;Support;Special + Channel;None;Switcher Move. User switches out with another pokemon. Any attribute increase on the user is passed on to the next pokemon. The user can't increase its attributes again until the end of the scene.
+Beat Up;Dark;Physical;Dexterity + Brawl;Strength + 2*;If the attack is successful, add 2 dice of damage for every ally pokemon that spends an action to help the user perform this move. Up to 3 allies my join.
+Behemoth Bash;Steel;Physical;Vitality + Brawl;Strength + 4*;If the foe is under the effects of Dynamax, this move becomes Lethal and you add 4 extra damage dice to the damage pool.
+Behemoth Blade;Steel;Physical;Strength + Brawl;Strength + 4*;If the foe is under the effects of Dynamax, this move becomes Lethal and you add 4 extra damage dice to the damage pool.
+Belch;Poison;Special;Special + Channel;Special + 5;Accuracy -1. The user must eat something before using this move.
+Belly Drum;Normal;Support;Tough + Perform;None;User deals damage to itself equal to half of its total HP rounded down. Increase the user's Strength by 3.
+Bestow;Normal;Support;Cool + Etiquette;None;If the target is not holding an item, the user gives its item to the target.
+Bide;Normal;Physical;Dexterity + Brawl;Varies;The user will take the next 2 hits. After those two attacks, you may use this move again to retaliate with Strength + twice the damage recieved from those two hits.
+Bind;Normal;Physical;Dexterity + Brawl;Strength + 1;Accuracy -2. Blocks. Deal 2 dice of damage at the end of each round. Lasts 4 rounds.
+Bite;Dark;Physical;Dexterity + Brawl;Strength + 2;Roll 3 chance dice to flinch the foe.
+Blast Burn;Fire;Special;Special + Channel;Special + 6;Accuracy -1. Lethal. Must Recharge.
+Blaze Kick;Fire;Physical;Dexterity + Brawl;Strength + 3;Accuracy -1. High Critical. Roll 2 chance dice to Burn(2) the foe.
+Blizzard;Ice;Special;Special + Channel;Special + 5;Accuracy -2. Hits all foes. Roll 1 chance die to Freeze all foes. If Sunny weather is active, Accuracy becomes -3 instead. If hail Weather is active, ignore the reduced Accuracy, and this move cannot be evaded.
+Block;Normal;Support;Dexterity + Brawl;None;Blocks.
+Blue Flare;Fire;Special;Special + Channel;Special + 6;Roll 2 chance dice to burn the foe.
+Body Press;Fight;Physical;Strength + Brawl;Vitality + 3;None;
+Body Slam;Normal;Physical;Dexterity + Brawl;Strength + 3;Roll 3 chance dice to Paralyze the foe.
+Boomburst;Normal;Special;Dexterity + Channel;Special + 6;Area Attack; Sound based.
+Bounce;Flying;Physical;Dexterity + Brawl;Strength + 3;Charge Move. While chargin this move, the user is out of range. Roll 3 chance dice to Paralyze the foe.
+Bouncy Bubble;Water;Special;Dexterity + Channel;Special + 3;The user restores HP equal to half the damage dealt, rounded down. If the user is at its final evolution stage, this move fails.
+Brave Bird;Flying;Physical;Strength + Brawl;Strength + 5;Recoil.
+Brick Break;Fight;Physical;Dexterity + Brawl;Strength +3;If a barrier is active on the foe's side of the battlefield, destroy it and add 2 dice to the damage pool.
+Brine;Water;Special;Dexterity + Channel;Special + 2*;If the foe is at half HP or less, add 3 extra dice to the damage pool.
+Brutal Swing;Dark;Physical;Dexterity + Brawl;Strength + 2;Lethal. Hits all foes.
+Bubble;Water;Special;Dexterity + Channel;Special + 2;Target all foes. Roll 1 chance die to reduce the Dexterity of all foes by 1.
+Bubble Beam;Water;Special;Dexterity + Channel;Special + 3;Roll 1 chance die to reduce the foe's Dexterity by 1.
+Bug Bite;Bug;Physical;Dexterity + Brawl;Strength + 2;If the target is holding a berry, the user eats it and gains its effect.
+Bug Buzz;Bug;Special;Special + Perform;Special + 3;Sound based. Roll 1 chance die to reduce the foe's Sp. Defense by 1.
+Bulk Up;Fight;Support;Vitality + Athletic;None;Increase the user's Strength and Defense by 1.
+Bulldoze;Ground;Physical;Dexterity + Brawl;Strength + 2;Area attack. Reduce the Dexterity of all affected by 1.
+Bullet Punch;Steel;Physical;Dexterity + Brawl;Strength + 2;Priority 1. Fist based.
+Bullet Seed;Grass;Physical;Dexterity + Brawl;Strength + 1;Ranged. Multiple Actions (5).
+Burn Up;Fire;Special;Will + Channel;Special + 7;Lethal. After dealing damage, the user is no longer considered a Fire-type for the rest of the day (if its only type was Fire, it is now consideres Typeless). Fire-type moves do not add their power to the damage pools of this pokemon's moves for the rest of the day.
+Buzzy Buzz;Electric;Special;Dexterity + Channel;Special + 3;Paralyze the foe. If the user is at its final evolution stage, this move fails.
+Calm Mind;Psychic;Support;Insight + Channel;None;Increase the user's Special and Sp. Defense by 1.
+Camouflage;Normal;Support;Special + Nature;None;For the rest of the scene the user changes type to one that fits the terrain it is in.
+Captivate;Normal;Support;Beauty + Allure;None;Hits all foes. Reduce Special of all foes of the opposite gender by 2.
+Charge;Electric;Support;Insight + Nature;None;Add 2 dice to the damage pool of the next Electric damaging move the user performs.
+Charge Beam;Electric;Special;Dexterity + Channel;Special + 2;Accuracy -1. Roll 5 chance dice to increase the user's Special by 1.
+Charm;Fairy;Support;Cute + Allure;None;Reduce foe's Strength by 2.
+Chip Away;Normal;Physical;Dexterity + Brawl;Strength + 3;This attack ignores Defense and Evasion modifiers on the foe.
+Circle Throw;Fight;Physical;Dexterity + Brawl;Strength + 2;Accuracy -1. Priority 1. Switcher Move. The foe is hit and knocked back to its trainer, forcing them to switch in another pokemon. In the wild, the battle ends.
+Clamp;Water;Physical;Dexterity + Brawl;Strength + 2;Accuracy -2. Blocks. Deal 2 dice of damage at the end of each round. Lasts 4 rounds.
+Clear Smog;Poison;Special;Dexterity + Channel;Special + 2;Never fails. Reset all increased or reduced Attributes on the foe.
+Close Combat;Fight;Physical;Strength + Brawl;Strength + 5;After dealing damage, reduce the user's Defense and Sp. Defense by 1.
+Coil;Poison;Support;Tough + Intimidate;None;Increase the user's Strength, Dexterity, and Accuracy by 1.
+Comet Punch;Normal;Physical;Dexterity + Brawl;Strength + 1;Fist based. Multiple Actions (5).
+Confide;Normal;Support;Cute + Allure;None;Reduce the foe's Special by 1.
+Confuse Ray;Ghost;Support;Insight + Nature;None;Confuse the foe.
+Confusion;Psychic;Special;Dexterity + Channel;Special + 2;Roll 1 chance dice to Confuse the foe.
+Constrict;Normal;Physical;Dexterity + Brawl;Strength + 1;Blocks. Roll 2 dice of damage against the foe at the end of each round. Lasts 4 rounds.
+Conversion;Normal;Support;Will + Channel;None;The user changes its type at random.
+Conversion 2;Normal;Support;Will + Channel;None;After being dealt damage, choose a type resistant to the type of that attack. The user changes type to that type until this move is used again.
+Copycat;Normal;Support;Same as copied move;Same as copied move;Copy the last move the foe has performed.
+Core Enforcer;Dragon;Special;Special + Channel;Special + 4;If the foe has already inflicted damage this round, remove the foe's Ability for the rest of the scene.
+Cosmic Power;Psychic;Support;Special + Channel;None;Increase the user's Defense and Sp. Defense by 1.
+Cotton Guard;Grass;Support;Insight + Channel;None;Increase the user's Defense by 3.
+Cotton Spore;Grass;Support;Insight + Channel;None;Reduce the foe's dexterity by 2.
+Counter;Fight;Physical;Insight + Brawl;Varies;This move can only deal damage if the foe has dealt physical damage to the user this round. Roll the same damage pool as your foe plus 2 extra dice. Ignore the foe's Defenses.
+Court Change;Normal;Support;Clever + Etiquette;None;Swap any barriers, Entry Hazards, and Effects on the user's and the foe's sides of the field.
+Covet;Normal;Physical;Clever + Stealth;Strength + 2;If the user is not holding an item, steal the target's held item.
+Crabhammer;Water;Physical;Dexterity + Brawl;Stength + 3;Accuracy -1. High Critical.
+Crafy Shield;Fariy;Support;Insight + Nature;None;Priority 3. Shield Move. The user and its Allies are protected from the effects of Support moves.
+Cross Chop;Fight;Physical;Dexterity + Brawl;Strength + 4;Accuracy -2. High Critical.
+Cross Poison;Poison;Physical;Dexterity + Brawl;Strength + 3;High Critical. Roll 1 chance die to Poison the foe.
+Crunch;Dark;Physical;Dexterity + Brawl;Strength + 3;Lethal. Roll 1 chance die to reduce the foe's Defense by 1.
+Crush Claw;Normal;Physical;Dexterity + Brawl;Strength + 3;Roll 5 chance dice to reduce the target's Defense by 2.
+Crush Grip;Normal;Physical;Strength + Brawl;Strength + 1*;Lethal. If the foe has a base HP higher than 3, add 1 die to the damage pool for every exceeding point. Up to 9 dice may be added this way.
+Curse;Ghost;Support;Will + Channel;None;User is Ghost-type: Roll half of the user's HP as damage dice against itself, ignoring defenses. The target will remove 1 success from all of their rolls until the Curse is lifted. User is not Ghost-type: INcrease the user's Strength and Defense by 1. Reduce the user's Dexterity by 1.
+Cut;Normal;Physical;Dexterity + Brawl;Strength + 2;May be used to cut down trees and clear paths.
+Dark Pulse;Dark;Special;Insight + Channel;Special + 3;Targets random foe. Roll 2 chance dice to Flinch the foe.
+Dark Void;Dark;Support;Insight + Channel;None;Accuracy -3. All foes are Asleep.
+Darkest Lariat;Dark;Physical;Dexterity + Brawl;Strength + 3;Ignore the foe's Attribute increases that would decrease this move's damage.
+Dazzling Gleam;Fairy;Special;Dexterity + Channel;Special + 3;Hits all foes.
+Decorate;Fairy;Support;Beauty + Nature;None;Increase the Strength and Special of one Ally by 2.
+Defend Order;Bug;Support;Tough + Nature;None;Inrease the user's Defense and Sp. Defense by 1.
+Defense Curl;Normal;Support;Vitality + Brawl;None;Increase the user's Defense by 1.
+Defog;Flying;Support;Insight + Nature;None;Remove all Barriers, Entry Hazards and Terrains from the battlefield.
+Destiny Bond;Ghost;Support;Will + Channel;None;If the user faints this round due to combat damage, the pokemon that dealt the damage will faint at the same time.
+Detect;Fight;Support;Insight + Alert;None;Priority 5. Shield Move. Reduce the damage the user would receive from a damaging move by 3. Negate the effect ofs of Status moves that target the user. Reduce to 0 the set damage the user would take from a move.
+Dig;Ground;Physical;Dexterity + Brawl;Strength + 3;Charge Move. While charging this move, the user will be out of range. Can be hit by Earthquake, Magnitude or a similar move.
+Disable;Normal;Support;Insight + Channel;None;The target cannot use the last move it performed. Lasts 4 rounds.
+Disarming Voice;Fairy;Special;Insight + Perform;Special + 2;Sound based. Never fails. Hits all foes.
+Discharge;Electric;Special;Dexterity + Channel;Special + 3;Area Attack. Roll 3 chance dice to Paralyze those affected.
+Dive;Water;Physical;Dexterity + Brawl;Strength + 2;Charge Move. While charging this move, the user is out of range. Allows the pokemon to swim into deep waters.
+Dizzy Punch;Normal;Physical;Dexterity + Brawl;Strength + 3;Roll 2 chance dice to confuse the foe. Fist based.
+Doom Desire;Steel;Special;Insight + Allure;Special + 6;Strikes at the end of the round after the next. It bypasses any Shield Move and cover. If the target retires or switches out from battle, the damage will be dealt to the next opponent or to one of its allies. Additional effects may be added at GM's discretion.
+Double Hit;Normal;Physical;Dexterity + Brawl;Strength + 2;Accuracy -1. Double Action.
+Double Iron Bash;Steel;Physical;Special + Brawl;Strength + 2;Roll 3 chance dice to Flinch the foe.
+Double Kick;Fight;Physical;Dexterity + Brawl;Strength + 2;Double action.
+Double Slap;Normal;Physical;Dexterity + Brawl;Strength + 1;Accuracy -2. Multiple Actions (5).
+Double Team;Normal;Support;Dexterity + Evasion;None;The user can now make up to 5 Evasions per round.
+Double-Edge;Normal;Physical;Strength + Brawl;Strength + 5;Recoil.
+Draco Meteor;Dragon;Special;Special + Channel;Special + 6;Accuracy -1. Lethal. Reduce the user's Special by 2.
+Dragon Breath;Dragon;Special;Dexterity + Channel;Special + 2;Roll 3 chance dice to Paralyze the foe.
+Dragon Dance;Dragon;Support;Tough + Perform;None;Increase the user's Strength and Dexterity by 1.
+Dragon Pulse;Dragon;Special;Dexterity + Channel;Special + 3;None;
+Dragon Rage;Dragon;Special;Dexterity + Channel;Set Damage;This move always inflicts 2 damage.
+Dragon Rush;Dragon;Physical;Dexterity + Brawl;Strength + 4;Accuracy -2. Roll 2 chance dice to Flinch the foe.
+Dragon Tail;Dragon;Physical;Dexterity + Brawl;Strength + 2;Accuracy -1. Priority -1. Switcher Move. In the wild, the battle ends. In official fight, the foe switches out.
+Drain Punch;Fight;Physical;Dexterity + Brawl;Strength + 3;Fist based. The user restores HP equal to half the damage dealt, rounded down.
+Draining Kiss;Fairy;Special;Dexterity + Channel;Special + 2;The user restores HP equal to half the damage dealt, rounded down.
+Dream Eater;Psychic;Special;Special + Channel;Special + 4;The user restores HP equal to half the damage dealt, rounded down. The target must be asleep, otherwise this move fails.
+Drill Peck;Flying;Physical;Dextrity + Brawl;Strength + 3;None.
+Drill Run;Ground;Physical;Dexterity + Brawl;Strength + 3;High Critical.
+Dual Chop;Dragon;Physical;Dexterity + Brawl;Strength + 2;Accuracy -1. Double Action.
+Dynamic Punch;Fight;Physical;Dexterity + Brawl;Strength + 4;Accuracy -3. Fist based. Confuse the foe.
+Earth Power;Ground;Special;Dexterity + Channel;Special + 3;Roll 1 chance die to reduce the foe's Sp. Defense by 1.
+Earthquake;Ground;Physical;Dexterity + Brawl;Strength + 4;Area Attack. Ranged.
+Echoed Voice;Normal;Special;Dexterity + Channel;Special + 2*;Sound based. This move can be used multiple times in the same round. Add 1 extra damage die to the damage pool for every consecutive time you have used it. Up to 8 dice may be added this way. Reset this effect if the user performs another move, evades, or clashes.
+Eerie Impulse;Electric;Support;Insight + Nature;None;Reduce the foe's Special by 2.
+Egg Bomb;Normal;Physical;Dexterity + Brawl;Strength + 4;Accuracy -2. Ranged.
+Electric Terrain;Electric;Support;Insight + Nature;None;For the next 4 rounds, all Electric-type attacks will deal 1 extra die of damage. Anyone on the ground will be cured of Sleep.
+Electrify;Electric;Support;Insight + Nature;None;The damage from the next attack made by the target is considered Electric-type damage.
+Electro Ball;Electric;Special;Dexterity + Channel;Special + 2*;Add 1 extra dice to the damage pool for every point in Dexterity it has more than the foe. Up to 4 dice may be added in this way.
+Electroweb;Electric;Special;Dexterity + Channel;Special + 2;Hits all foes. Reduce Dexterity of all foes by 1.
+Embargo;Dark;Support;Tough + Intimidate;None;The target cannot ude its held item, and its trainer cannot use items on it.
+Ember;Fire;Special;Dexterity + Channel;Special + 2;Roll 1 chance die to Burn(1) the foe.
+Encore;Normal;Support;Cool + Allure;None;Priority 3. For the duration of this effect, the target will repeat the same action sequence it had this round. The target must have had an action sequence. Lasts 4 rounds.
+Endeavor;Normal;Physical;Will + Channel;Varies;Roll damage equal to the user's missing HP (up to 10). This move cannot reuce the foe's HP to less than the user's HP. Ignores foe's defenses.
+Endure;Normal;Support;Will + Channel;None;Priority 5. Shield Move. For the rest of the round, damaging moves cannot reduce the user's HP to less than 1. Status ailments, weather conditions, recoil, and self inflicted damge can still deal damage.
+Energy Ball;Grass;Special;Dexterity + Channel;Special + 3;Roll 1 chance die to reduce the foe's Sp. Defense by 1.
+Entrainment;Normal;Support;Cool + Perform;None;the foe's Ability is replaced by the user's Ability.
+Eruption;Fire;Special;Special + Channel;Special + 6;Lethal. Hits all foes. Remove 1 die from the damage pool for every HP the use ris missing. Up to 5 dice may be removed this way.
+Explosion;Normal;Physical;Strength + Brawl;Strength + 10;Area Attack. Lethal. After the damage is dealt, the user faints.
+Extrasensory;Psychic;Special;Dexterity + Channel;Special + 3;Roll 1 chance die to Flinch the foe.
+Extreme Speed;Normal;Physical;Dexterity + Brawl;Strength + 3;Priority 2. Triple the user's movement speed.
+Facade;Normal;Physical;Dexterity + Brawl;Strength + 3;If the user has a Status Condition, add 3 extra dice to the damage pool.
+Fairy Lock;Fairy;Support;Insight + Nature;None;Blocks;Lasts 1 round.
+Fairy Wind;Fairy;Special;Dexterity + Channel;Special + 2;None
+Fake Out;Normal;Physical;Dexterity + Brawl;Strength + 2;Priority 1. Flinch the foe. This move will only work on the first round the user is out in battle. From the second round on, it will fail automatically.
+Fake Tears;Dark;Support;Cute + Perform;None;Reduce the foe's Sp. Defense by 2.
+False Surrender;Dark;Physical;Insight + Allure;Strength + 3;Never fails.
+False Swipe;Normal;Physical;Dexterity + Brawl;Strength + 2;The foe can't go below 1 HP as a result of damage from this move.
+Feather Dance;Flying;Support;Beauty + Perform;None;Reduce the foe's Strength by 2.
+Feint;Normal;Physical;Dexterity + Brawl;Strength + 1;Priority 2. This move ignores Shield Moves.
+Feint Attack;Dark;Physical;Dexterity + Brawl;Strength + 2;Never fails.
+Fell Stinger;Bug;Physical;Dexterity + Brawl;Strength + 1;If the foe faints due to damage from this attack, increase the user's Strength by 2.
+Fiery Dance;Fire;Special;Dexterity + Perform;Special + 3;Roll 5 chance dice to increase the user's Special by 1.
+Final Gambit;Fight;Special;Will + Athletic;Varies;Deals damage equal to the foe's remaining HP + 4. Ignore foe's defenses. The user faints after dealing damage.
+Fire Blast;Fire;Special;Special + Channel;Special + 5;Accuracy -2. Lethal. Roll 3 chance dice to Burn(3) the foe.
+Fire Fang;Fire;Physical;Dexterity + Brawl;Strength + 2;Accuracy -1. Roll 2 chance dice to Flinch the foe. Roll 2 chance dice to Burn(1) the foe.
+Fire Lash;Fire;Physical;Dexterity + Brawl;Strength + 3;Reduce the foe's Defense by 1.
+Fire Pledge;Fire;Special;Dexterity + Channel;Special + 2;All flammable plants and objects on the battlefield are covered in flames. Roll 1 die of Fire damage at the end of each round against everyone else on the battlefield.
+Fire Punch;Fire;Physical;Dexterity + Brawl;Strength + 3;Fist based. Roll 1 chance die to Burn(2) the foe.
+Fire Spin;Fire;Special;Dexterity + Channel;Special + 2;Accuracy -2. Blocks. Roll 2 dice of damage on the foe at the end of each round. Lasts 4 rounds.
+First Impression;Bug;Physical;Strength + Intimidate;Strength + 3;Priority 2. This move will only work on the first round the user is out.
+Fissure;Ground;Physical;Strength + Brawl;Varies;Accuracy -5. Ranged. Deal damage equal to the target's remaining HP, plus 1 Lethal damage.
+Flail;Normal;Physical;Dexterity + Brawl;Strength + 1*;Add 1 extra die to the damage pool for every point of missing HP the user has. Up to 5 dice may be added this way.
+Flame Burst;Fire;Special;Dexterity + Channel;Special + 3;After dealing damage, the user may roll 1 die of damage against two other targets.
+Flame Charge;Fire;Physical;Dexterity + Brawl;Strength + 2;Increase the user's Dexterity by 1.
+Flame Wheel;Fire;Physical;Dexterity + Brawl;Strength + 2;Roll 1 chance die to Burn(1) the foe.
+Flamethrower;Fire;Special;Dexterity + Channel;Special + 3;Roll 1 chance die to Burn(2) the foe.
+Flare Blitz;Fire;Physical;Strength + Brawl;Strength + 5;Recoil. Roll 1 chance die to Burn(3) the foe.
+Flash;Normal;Support;Special + Channel;None;Reduce the foe's Accuracy by 1.
+Flash Cannon;Steel;Special;Dexterity + Channel;Special + 3;Roll 1 chance die to reduce the foe's Sp. Defense by 1.
+Flatter;Dark;Support;Cool + Allure;None;Increase the foe's Special by 1. Confuse the foe.
+Fleur Cannon;Fairy;Special;Special + Channel;Special + 6;Accuracy -1. Lethal. Reduce the user's Special by 2.
+Fling;Dark;Physical;Dexterity + Brawl;Strength + 1;Ranged. Add up to 4 dice to the damage pool, depending on the held item thrown. See P. 432 for more info.
+Floral Healing;Fairy;Support;Insight + Nature;None;Targets one Ally. Basic Heal. If performed on Grassy Terrain, this move is a Complete Heal instead.
+Flower Shield;Fairy;Support;Insight + Nature;None;Increase the Defense of all Grass-type pokemon on the field by 1.
+Fly;Flying;Physical;Dexterity + Brawl;Strength + 3;Charge Move. While charging this move,the user will be out of range, except for the moves "Hurricane" and "Thunder".
+Flying Press;Fight;Physical;Dexterity + Brawl;Strength + 3;When dealing damage with this move, it counts as if it was also a Flying-type move.
+Focus Blast;Fight;Special;Special + Channel;Special + 5;Accuracy -2. Roll 1 chance die to reduce the foe's Sp. Defense.
+Focus Energy;Normal;Support;Insight + Channel;None;All of the user's damaging moves now have "High Critical". This effect lasts until the end of the scene or until the user is removed from battle.
+Focus Punch;Fight;Physical;Strength + Brawl;Strength + 6;Fist based. Charge Move. The user will Flinch if it gets hit before relesing this attack.
+Follow Me;Normal;Support;Cool + Perform;None;Priority 5. Until the end of the round, all of the foes' mvoes will target the user.
+Force Palm;Fight;Physical;Dexterity + Brawl;Strength + 2;Roll 3 chance dice to Paralyze the foe.
+Foresight;Normal;Support;Insight + Alert;None;The foe cannot evade moves performed by the user. User ignores Ghost-type immunity to Normal and vice versa.
+Foul Play;Dark;Physical;Dexterity + Brawl;Foe's Strength + 3;S.T.A.B. of the user and Strength of the foe apply for this move's damage.
+Freeze Dry;Ice;Special;Dexterity + Channel;Special + 3;Water-type pokemon are dealth 2 extra damage.
+Freeze Shock;Ice;Physical;Special + Channel;Strength + 6;Accuracy -1. Lethal. Ranged. Charge Move. Roll 3 chance dice to Paralyze the foe.
+Freezy Frost;Ice;Special;Special + Channel;Special + 3;Accuracy -1. Remove all increases or reductions to the foe's Attributes and Traits. If the user is at its final evolution stage, this move fails.
+Frost Breath;Ice;Special;Dexterity + Channel;Special + 2;This move is always a critical hit.
+Frustration;Normal;Physical;Dexterity + Brawl;Strength + 0*;Add 1 extra die to the damage pool of this move for every missing point of happiness on the user.
+Fury Attack;Normal;Physical;Dexterity + Brawl;Strength + 1;Accuracy -1. Multiple Action (5).
+Fury Cutter;Bug;Physical;Dexterity + Brawl;Strength + 1;Multiple actions (5).
+Fury Swipes;Normal;Physical;Dexterity + Brawl;Strength + 1;-1 Accuracy. Multiple actions (5).
+Fusion Bolt;Electric;Physical;Strength + Channel;Strength + 4*;Lethal. If the move "Fusion Flare" has already been used by anyone this round, add 4 dice to the damage pool of this move.
+Fusion Flare;Fire;Special;Special + Channel;Special + 4*;Lethal. If the move "Fusion Bolt" has already been used by anyone this round, add 4 dice to the damage pool.
+Future Sight;Psychic;Special;Insight + Channel;Special + 5;Strikes at the end of the next round. It bypasses any Shield Move and cover. If the target retires or switches out from battle, the damage will be dealt to the next opponent or to one of its allies.
+Gastro Acid;Poison;Support;Special + Channel;None;Negate any effect from the foe's Ability. Lasts until the end of the scene.
+Gear Grind;Steel;Physical;Dexterity + Brawl;Strength + 2;Accuracy -1. Double Action.
+Gear Up;Steel;Support;Vitality + Channel;None;Increase one Steel- or Electric-type ally's Strength and Special by 1.
+Geomancy;Fairy;Support;Insight + Nature;None;Charge Move. The user charges, then increases its Dexterity, Special, and Sp. Defense by 2 on its next turn.
+Giga Drain;Grass;Special;Dexterity + Channel;Special + 3;The user restores HP equal to half the damage dealt, rounded down.
+Giga Impact;Normal;Physical;Strength + Brawl;Strength + 6;Accuracy -1. Must Recharge. Lethal.
+Glaciate;Ice;Special;Dexterity + Channel;Special + 2;Lethal. Hits all foes. Reduce the Dexterity of all foes by 1.
+Glare;Normal;Support;Tough + Intimidate;None;Accuracy -1. Paralyze the foe.
+Glitzy Glow;Psychic;Special;Special + Channel;Special + 3;For the next 4 rounds, the user and allies will receive 1 less damage from Special attacks. This effect does not stack. If the user is at its final evolution stage, this move fails.
+Grass Knot;Grass;Special;Dexterity + Channel;Special + 1;Add 1 die to the damage pool for every 50 kg the foe weighs. Up to 4 dice may be added this way.
+Grass Pledge;Grass;Special;Dexterity + Channel;Special + 2;Area Attack. Reduce the Dexterity of all pokemon on the ground for the rest of the scene.
+Grass Whistle;Grass;Support;Special + Perform;None;Accuracy -3. Sound based. Put the target to Sleep.
+Grassy Terrain;Grass;Support;Special + Nature;None;If successful, spend 1 Will point to activate. Everyone on the user's side of the field heals 1 Hp at the end of each round. Add 1 die to the damage pool of all Grass-type moves.
+Grav Apple;Grass;Physical;Dexterity + Channel;Strength + 3;Ranged;Reduce the foe's Defense by 1.
+Gravity;Psychic;Support;Special + Channel;None;Flying and Levitating pokemon can be hit by Ground-type moves. Lasts 4 rounds.
+Growl;Normal;Support;Tough/Cute + Perform;None;Reduce all foes' Strength by 1. Sound based.
+Growth;Normal;Support;Special + Nature;None;Increase the user's Strength and Special by 1.
+Grudge;Ghost;Support;Will + Channel;None;The user faints. The foe loses all its Will points and any effects it got from spending them. The foe must roll Loyalty at the end of each round to keep battling. Each round, one more success is required.
+Guard Split;Psychic;Support;Special + Channel;None;Average the user's Defense and Sp. Defense with the foe.
+Guard Swap;Psychic;Support;Special + Channel;None;Switch the user's Defense and Sp. Defense with the foe's.
+Guillotine;Normal;Physical;Dexterity + Brawl;Varies;Accuracy -5. Deal damage equal to the target's remaining HP, plus 1 Lethal damage.
+Gunk Shot;Poison;Physical;Strength + Brawl;Strength + 2;Roll 5 chance dice to Badly Poison the foe.
+Gust;Flying;Special;Dexterity + Channel;Special + 2;None
+Gyro Ball;Steel;Physical;Dexterity + Brawl;Strength + 1;Add 1 extra die to the damage pool for every point of Dexterity has more than the user. Up to 5 dice may be added this way.
+Hail;Ice;Support;Special + Nature;None;Hail Weather is activated for the next 4 rounds.
+Hammer Arm;Fight;Physical;Dexterity + Brawl;Strength + 4;Accuracy -1. After dealing damage, reduce the user's Dexterity by 1.
+Harden;Normal;Support;Vitality + Nature;None;Increase the user's Defense by 1.
+Haze;Ice;Support;Special + Nature;None;Remove all increased or reduced Attributes and Traits from everyone.
+Head Charge;Normal;Physical;Strength + Brawl;Strength + 5;Recoil.
+Head Smash;Rock;Physical;Strength + Brawl;Strength + 6;Accuracy -2. Recoil.
+Headbutt;Normal;Physical;Dexterity + Brawl;Strength + 3;Roll 3 chance dice to Flinch the foe. May encounter pokemon when hitting trees.
+Heal Bell;Normal;Support;Special + Perform;None;Sound based. Cure the user and allies of Status Conditions. They don't need to be on the battlefield.
+Heal Block;Psychic;Support;Special + Channel;None;No one can regain any lost HP. Lasts 4 rounds.
+Heal Order;Bug;Support;Tough + Nature;None;Basic Heal.
+Heal Pulse;Psychic;Support;Will + Channel;None;Basic Heal. Targets one ally.
+Healing Wish;Psychic;Support;Will + Channel;None;The user faints. One ally is completely healed from all damage and Status Conditions.
+Heart Stamp;Psychic;Physical;Insight + Allure;Strength + 2;Roll 3 chance dice to Flinch the foe.
+Heart Swap;Psychic;Support;Insight + Allure;None;The user switches any Trait increase or reduction with the foe.
+Heat Crash;Fire;Physical;Strength + Brawl;Strength + 2*;Add 1 extra die of damage for every 50 kg the weighs more than the foe. Up to 4 dice may be added this way.
+Heat Wave;Fire;Special;Dexterity + Channel;Special + 3;Accuracy -1. Hits all foes. Roll 1 chance die to Burn(1) all foes.
+Heavy Slam;Steel;Physical;Dexterity + Brawl;Strength + 1;Add 1 extra die to the damage pool for every 50 kg the user weighs more than the foe. Up to 4 dice may be added this way.
+Helping Hand;Normal;Support;Dexterity + Perform;None;Priority 5. Target ally gets 2 extra dice on its next Skill, Accuracy and Damage rolls.
+Hex;Ghost;Special;Dexterity + Channel;Special + 2;If the target is affected by a Status Condition, add 2 extra dice to the damage pool.
+Hidden Power;Normal;Special;Varies;Varies;The Power and Type of this move is determined by the GM.
+High Horsepower;Ground;Physical;Dexterity + Brawl;Strength + 3;None;
+High Jump Kick;Fight;Physical;Dexterity + Brawl;Strength + 5;Accuracy -1. If the Accuracy roll is not successful, deal 5 dice of damage to the user.
+Hone Claws;Dark;Support;Insight + Nature;None;Increase the user's Strength and Accuracy by 1.
+Horn Attack;Normal;Physical;Dexterity + Brawl;Strength + 2;None.
+Horn Drill;Normal;Physical;Dexterity + Brawl;Varies;Accuracy -5. Deal damage equal to the target's remaining HP plus 1 Lethal damage.
+Horn Leech;Grass;Physical;Dexterity + Brawl;Strength + 3;The user restores HP equal to half the damage dealt, rounded down.
+Howl;Normal;Support;Cool + Intimidate;None;Increase the user's Strength by 1.
+Hurricane;Flying;Special;Special + Channel;Special + 5;Accuracy -2. Lethal.Roll 3 chance dice to Confuse the foe. If Rain Weather is active, ignore this move's reduced Accuracy.
+Hydro Pump;Water;Special;Special + Channel;Special + 5;Accuracy -1.
+Hyper Beam;Normal;Special;Special + Channel;Special + 6;Accuracy -1. Lethal. Must Recharge.
+Hyper Fang;Normal;Physical;Dexterity + Brawl;Strength + 3;Roll 1 chance die to Flinch the foe.
+Hyper Voice;Normal;Special;Dexterity + Channel;Special + 3;Sound based. Target all foes.
+Hyperspace Hole;Psychic;Special;Insight + Channel;Special + 3;Never fails. Ignores defenses. Bypass the effect of any Shield Move.
+Hyperspace Fury;Dark;Physical;Dexterity + Brawl;Strength + 4;Never fails. Ignores the effects of any Shield Move the foe might have used. Reduce the user's Defense by 1.
+Hypnosis;Psychic;Support;Insight + Allure;None;Accuracy -4. Put the target to Sleep.Dark-type pokémon are affected by this move.
+Ice Ball;Ice;Physical;Dexterity + Brawl;Strength + 1;Accuracy -1. Multiple Actions (5). Add 1 extra die to the damage roll for every previous use this round. If the user used Defense Curl this round, add 1 extra die the damage pool.
+Ice Beam;Ice;Special;Dexterity + Channel;Special + 3;Roll 1 chance die to Freeze the foe.
+Ice Burn;Ice;Special;Special + Channel; Special + 6;Accuracy -1. Lethal. Ranged. Charge Move. Roll 3 chance dice to Burn(1) the foe.
+Ice Fang;Ice;Physical;Dexterity + Brawl;Strength + 2;Accuracy -1. Roll 2 chance dice to Flinch the foe. Roll 2 chance dice to Freeze the foe.
+Ice Punch;Ice;Physical;Dexterity + Brawl;Strength + 3;Fist based. Roll 1 chance die to Freeze the foe.
+Ice Shard;Ice;Physical;Dexterity + Brawl;Strength + 2;Ranged. Priority 1.
+Icicle Crash;Ice;Physical;Dexterity + Brawl;Strength + 3;Accuracy -1. Roll 3 chance dice to Flinch the foe.
+Icicle Spear;Ice;Physical;Dexterity + Brawl;Strength + 1;Ranged. Multiple Actions (5).
+Icy Wind;Ice;Special;Dexterity + Channel;Special + 2;Target all foes. Reduce dexterity of all foes by 1.
+Imprison;Psychic;Support;Clever + Channel;None;The foe cannot use any moves known by the user. Lasts for a day.
+Incinerate;Fire;Special;Dexterity + Channel;Special + 2;Hits all foes. Destroy the held berries of all foes.
+Inferno;Fire;Special;Dexterity + Channel;Special + 4;Accuracy -3. Lethal. Burn(3) the foe.
+Infestation;Bug;Special;Dexterity + Channel;Special + 1;Blocks. Roll 2 dice of damage against the foe at the end of each round. Lasts 4 rounds.
+Ingrain;Grass;Support;Special + Nature;None;If successful, spend 1 Will point to activate. The user heals 1 HP at the end of each round. Th user is now blocked.
+Instruct;Psychic;Support;Clever + Perform;None;The target repeats their last move used this round, using the Accuracy roll of "Instruct" for that move. If the target has not successfully used a move on this round, this move fails.
+Ion Deluge;Electric;Support;Insight + Nature;None;For the rest of the scene, Normal-type moves will deal damage as if they were Electric-type moves.
+Iron Defense;Steel;Support;Vitality + Channel;None;Increase the user's Defense by 2.
+Iron Head;Steel;Physical;Dexterity + Brawl;Strength + 3;Roll 3 chance dice to Flinch the foe.
+Iron Tail;Steel;Physical;Dexterity + Brawl;Strength + 4;Accuracy -3. Roll 3 chance dice to reduce the foe's Defense by 1.
+Judgment;Normal;Special;Insight + Intimidate;Special + 0*;Ignore defenses. This move is considered to be any type the user wants. If something would prevent this move from dealing damage, ignore it. This move cannot be clashed. This move's Power and added effects are decided by the GM.
+Jump Kick;Fight;Physical;Dexterity + Brawl;Strength + 4;If Accuracy roll is unsuccesful, deal 4 dice of damage to the user.
+Karate Chop;Fight;Physical;Dexterity + Brawl;Strength + 3;High Critical.
+Kinesis;Psychic;Support;Special + Channel;None;Reduce the foe's Accuracy by 1.
+King's Shield;Steel;Support;Dexterity + Brawl;None;Priority 3. Shield Move. If the foe would hit the user with a Physical move, reduce the foe's Strength by 2, then reduce the damage of that move by 3.
+Knock Off;Dark;Physical;Dexterity + Brawl;Strength + 2;The foe loses its held item.
+Land's Wrath;Ground;Physical;Strength + Channel;Strength + 3;Lethal. Ranged. Hits all foes.
+Laser Focus;Normal;Support;Insight + Alert;None;The next time the user hits with an attack, it is a Critical Hit.
+Last Resort;Normal;Physical;Dexterity + Brawl;Strength + 6;This move can be used only after the user has perfomred all its known moves at least once during the battle.
+Lava Plume;Fire;Special;Dexterity + Channel;Special + 3;Area Attack. Roll 3 chance dice to Curn (1) the targets.
+Leaf Blade;Grass;Physical;Dexterity + Brawl;Strength + 3;Lethal. High Critical.
+Leaf Storm;Grass;Special;Special + Channel;Special + 6;Accuracy -1. Reduce the user's Special by 2.
+Leaf Tornado;Grass;Special;Dexterity + Channel;Special + 2;Accuracy -1. Roll 5 chance dice to reduce the foe's Accuracy by 1.
+Leafage;Grass;Physical;Dexterity + Channel;Strength + 2;Ranged.
+Leech Life;Bug;Physical;Dexterity + Brawl;Strength + 3;The user restores HP equal to half the damage dealt, rounded down.
+Leech Seed;Grass;Support;Special + Nature;None;Accuracy -1. If succesful, spend 1 Will to activate. At the end of each round, roll 1 dice of damage to the foe. User heals 1 HP for each damage dealt this way. Grass-type pokémon are immune to this move.
+Leer;Normal;Support;Tough + Intimidate;None;Reduce all foes' Defense by 1.
+Lick;Ghost;Physical;Dexterity + Brawl;Strength + 1;Roll 3 chance dice to Paralyze the foe.
+Light of Ruin;Fairy;Special;Special + Channel;Special + 6;Accuracy -1. Lethal. Recoil.
+Light Screen;Psychic;Support;Special + Channel;None;User and allies will receive 1 less damage from Special attacks. Lasts 4 rounds.
+Lock-On;Normal;Support;Insight + Alert;None;The next attack the user performs has 2 automatic unremovable successes on its Accuracy roll.
+Lovely Kiss;Normal;Support;5 - Beauty + Allure;None;Put the foe to Sleep.
+Low Kick;Fight;Physical;Dexterity + Brawl;Strength + 1*;Add 1 extra damage die for every 50 kg of weight on the foe. Up to 4 dice may be added this way.
+Low Sweep;Fight;Physical;Dexterity + Brawl;Strength + 2;Reduce the foe's Dexterity by 2.
+Lucky Chant;Normal;Support;Special + Perform;None;User and allies can re-roll one unsuccesful die from all their rolls until the end of the scene. If an opponent would land a Critical Hit, it doesn't. Out of battle, good things happen.
+Lunar Dance;Psychic;Support;Insight + Perform;None;The user faints. One fainted ally regains consciousness, has its HP fully restored, and all Status Conditions healed. If the ally was not in battle, it is switched out and ready to fight.
+Lunge;Bug;Physical;Dexterity + Brawl;Strength + 3;Reduce the foe's Strength by 1.
+Luster Purge;Psychic;Special;Special + Channel;Special + 2;Roll 5 chance dice to reduce the foe's Sp. Defense by 1. This effect stacks up to 3 times.
+Mach Punch;Fight;Physical;Dexterity + Brawl;Strength + 2;Priority 1. Fist based.
+Magic Coat;Psychic;Support;Special + Channel;Varies;Priority 4. Redirect the effects of a Support move that would affect the user or its side of the battlefield towards the foe's.
+Magic Powder;Psychic;Support;Special + Channel;None;Change the target's type to Psychic-type.
+Magic Room;Psychic;Support;Special + Channel;None;No one can use their Held Item or any other item. Lasts 4 rounds.
+Magical Leaf;Grass;Special;Dexterity + Channel;Special + 2;Never fails.
+Magma Storm;Fire;Special;Special + Channel;Special + 4;Accuracy -2. Blocks. Roll 3 damage dice against the foe at the end of each round. Lasts 4 rounds.
+Magnet Bomb;Steel;Physical;Dexterity + Channel;Strength + 2;Ranged. Never fails.
+Magnet Rise;Electric;Support;Insight + Nature;None;For the next 4 rounds, the user gains immunity against Ground-type moves.
+Magnetic Flux;Electric;Support;Insight + Nature;None;Increase the Defense and Sp. Defense of the user and all Steel-type and Electric-type allies by 1.
+Magnitude;Ground;Physical;Dexterity + Channel;Strength + 0*;Ranged. Roll 1 die to determine the move's power.
+Mat Block;Fight;Support;Dexterity + Athletic;None;Shield Move. Reduce 3 damage from a damaging move the user and allies would take. This move only works the first round the user has been out.
+Me First;Normal;Support;Dexterity + Brawl;Same as copied move + 1;Priority 1. The user copies and uses the move the foe was intending to use. It must be a damaging move.
+Mean Look;Normal;Support;Tough + Intimidate;None;Blocks.
+Meditate;Psychic;Support;Will + Channel;None;Increase the user's Strength by 1.
+Mega Drain;Grass;Special;Dexterity + Channel;Special + 2;The user restores HP equal to half the damage dealt, rounded down.
+Mega Kick;Normal;Physical;Dexterity + Brawl;Strength +5;Accuracy -2.
+Megahorn;Bug;Physical;Strength + Brawl;Strength + 5;Accuracy -2. Lethal.
+Memento;Dark;Support;Will + Channel;None;The user faints. Reduce the foe's Strength, Dexterity, Special, Defense and Sp. Defense. Lasts for a whole scene.
+Metal Burst;Steel;Physical;Dexterity + Brawl;Varies;This move only works if the foe used an attack this round. Roll the same damage pool as your foe's last attack, and add 2 dice to the damage pool.
+Metal Claw;Steel;Physical;Dexterity + Brawl;Strength + 2;Accuracy -1;Roll 1 chance die to increase the user's Strength by 1.
+Metal Sound;Steel;Support;Tough + Perform;None;Sound based. Reduce the foe's Sp. Defense by 2.
+Meteor Assault;Fight;Physical;Strength + Brawl;Strength + 6;Accuracy -1. Lethal. Must Recharge.
+Metronome;Normal;Special;Dexterity + Perform;Special + 0*;Roll a die to determine this move's power. The appearance and type of this move is determined by the GM.
+Milk Drink;Normal;Support;Vitality + Nature;None;Basic Heal. If successful, spend 1 Will point to activate.
+Mimic;Normal;Support;Clever + Perform;None;Copies the last move the target used until the end of the scene. That move replces Mimic.
+Mind Blown;Fire;Special;Insight + Channel;Special + 6;Area Attack. Recoil.
+Mind Reader;Normal;Support;Insight + Channel;None;This pokemon gets 2 automatic successes on the next Accuracy roll or Evasion roll against the foe.
+Minimize;Normal;Support;Special + Channel;None;The user can now make up to 5 Evasions per round.
+Miracle Eye;Psychic;Support;Insight + Alert;None;The user may hit Dark-type pokemon with Psychic-type moves. The user ignores Evasion modifiers. Foes cannot reduce the user's Accuracy.
+Mirror Coat;Psychic;Special;Dexterity + Channel;Varies;This move can only deal damage if the foe has dealt Special damage to the user this round. Roll the same damage pool as your foe plus 2 extra dice. Ignore the foe's Defenses.
+Mirror Move;Flying;Support;Will + Channel;Same as copied move;Copies the last damaging move the foe has performed.
+Mirror Shot;Steel;Special;Dexterity + Channel;Special + 2;Accuracy -2. Roll 3 chance dice to Confuse the foe.
+Mist;Ice;Support;Special + Nature;None;For the next 4 rounds, the user and allies cannot have their Attributes or Traits reduced.
+Mist Ball;Psychic;Special;Special + Channel;Special + 2;Roll 5 chance dice to reduce the foe's Special by 1. This effect can be repeated up to 3 times per target.
+Misty Terrain;Fairy;Support;Insight + Nature;None;Everyone on the battlefield are not affected by Status Conditions. Dragon-type attacks won't add their Power to the damage pool. Lasts 4 rounds.
+Moonblast;Fairy;Special;Special + Channel;Special + 3;Roll 3 chance dice to reduce the foe's Special by 1.
+Moongeist Beam;Ghost;Special;Special + Channel;Special + 4;Lethal. If anything on the foe's side of the battlefield would prevent this move from dealing damage, ignore it. This move cannot be clashed.
+Moonlight;Fairy;Support;Insight + Nature;None;Basic Heal.If succesful, spend on Will point to activate. If it's night or Sunny Weather, this move becomes a Complete Heal. If it's Rain or Sandstorm Weather, this move only heals 1 HP.
+Morning Sun;Normal;Support;Vitality + Nature;None;Basic Heal. If Sunny Weather is active, this move becomes a Complete Heal. If Rain/Sandstorm Weather is active, or it is night or you are indoors/underground, this move only heals 1 HP.
+Mud Bomb;Ground;Special;Dexterity + Channel;Special + 2;Accuracy -2. Roll 3 chance dice to reduce the foe's Accuracy by 1.
+Mud Shot;Ground;Special;Dexterity + Channel;Special + 2;Reduce the foe's Dexterity by 1.
+Mud Slap;Ground;Special;Dexterity + Channel;Special + 1;reduce the foe's Accuracy by 1.
+Mud Sport;Ground;Support;Special + Nature;None;For the next 4 rounds, Electric type attacks won't add their power to the damage pool.
+Muddy Water;Water;Special;Dexterity + Channel;Special + 3;Accuracy -2. Hits all foes. Roll 3 chance dice to reduce the Accuracy of all foes by 1.
+Mystical Fire;Fire;Special;Dexterity + Channel;Special + 2;Reduce the foe's Special by 1.
+Nasty Plot;Dark;Support;Clever + Alert;None;Increase the user's Special by 2.
+Natural Gift;Normal;Physical;Dexterity + Channel;Strength + 3;Ranged. User loses its held berry. See P. 432 for more info.
+Nature Power;Normal;Special;Special + Nature;Special + 3;The type of thos move is determined by the environment. See P. 432 for more info.
+Needle Arm;Grass;Physical;Dexterity + Brawl;Strength + 2;Roll 3 chance dice to Flinch the foe.
+Night Shade;Ghost;Special;Insight + Channel;Varies;Roll damage dice according to the user's rank: Starter: 1 die. Beginner: 2 dice. Amateur: 3 dice. Ace: 4 dice. Pro: 5 dice. Ignore foe's defenses.
+Night Slash;Dark;Physical;Dexterity + Brawl;Strength + 3;Lethal. High Critical.
+Nightmare;Ghost;Support;Will + Channel;None;Will only work if the target is asleep. Deal 1 damage to the foe. Deal 1 damage again at the beginning of each round if the target is still asleep.
+No Retreat;Fight;Support;Insight + Nature;None;Increase the user's Strength, Dexterity, Special, Defense, and Sp. Defense by 1. The user is now Blocked.
+Noble Roar;Normal;Support;Tough + Intimidate;None;Reduce the foe's Strength and Special by 1.
+Nuzzle;Electric;Physical;Dexterity + Brawl;Strength + 1;Paralyze the foe.
+Oblivion Wing;Flying;Special;Special + Channel;Special + 4;Lethal. High Critical.
+Octolock;Fight;Support;Strength + Brawl;None;Block. Reduce the foe's Defense and Sp. Defense by 1.
+Odor Sleuth;Normal;Support;Insight + Alert;None;The foe cannot evade moves performed by the user. User ignores Ghost-type immunity to Normal and vice versa. Out of battle, add successes of this move to any rolls for tracking targets.
+Ominous Wind;Ghost;Special;Dexterity + Channel;Special + 2;Roll 1 chance die to increase the user's Strength, Dexterity, Special, Defense, and Sp. Defense.
+Outrage;Dragon;Physical;Strength + Brawl;Strength + 5;Targets random foe. Rampage.
+Overdrive;Electric;Special;Dexterity + Perform;Special + 3;Hits all foes. Sound based.
+Overheat;Fire;Special;Special + Channel;Special + 6;Accuracy -1. Lethal. Reduce the user's Special by 2.
+Pain Split;Normal;Support;Will + Channel;None;The user gives its Pain Penalizations to the foe. User ignores Pain Penalizations on itself. Foe cannot ignore them with Will, but can still ignore its own Pain Penalizations. HP on both remain the same.
+Parabolic Charge;Electric;Special;Dexterity + Channel;Special + 2;Area Attack. The user restores HP equal to half the damage dealt to one target, rounded down.
+Pay Day;Normal;Physical;Dexterity + Brawl;Strength + 2;Ranged. At the end of the battle, gain money equal to the user's rank: Starter/Beginner: $20, Amateur: $50, Ace: $75, Pro: $100.
+Payback;Dark;Physical;Dexterity + Brawl;Strength + 2;Add 2 extra dice to the damage pool if the target already damaged you this round.
+Peck;Flying;Physical;Dexterity + Brawl;Strength + 2;None
+Perish Song;Normal;Support;Beauty + Perform;None;Sound based. After three rounds, all pokemon who heard the song and have not been switched out receives damage equal to its remaining HP.
+Petal Blizzard;Grass;Physical;Dexterity + Brawl;Strength + 3;Area Attack.
+Petal Dance;Grass;Special;Special + Channel;Special + 5;Rampage. Targets a random foe.
+Phantom Force;Ghost;Physical;Strength + Brawl;Strength + 3;Charge Move;While charging this move, othe rmoves will not affect the user. If the target used a Shield Move, the shield is destroyed, and won't have any effect.
+Photon Geyser;Psychic;Physical/Special;Dexterity + Channel;Strength/Special + 4;This move is Physical if you roll damage with Strength, and Special if you roll damage with Special.
+Pika Papow;Electric;Special;Dexterity + Channel;Special + 0*;Add 1 die to the damage pool for every point of Happiness on the user. If te user is at its final stage of evolution, this move fails.
+Pin Missile;Bug;Physical;Dexterity + Brawl;Strength + 1;Ranged. Multiple Actions (5).
+Plasma Fists;Electric;Physical;Dexterity + Brawl;Strength + 4;Fist based. If successful, all Normal-type moves of the user will be considered Electric-type until the end of the scene.
+Play Nice;Normal;Support;Cute + Allure;None;Reduce the foe's Strength by 1.
+Play Rough;Fairy;Physical;Dexterity + Brawl;Strength + 3;Accuracy -1. Roll 1 chance die to reduce the foe's Strength by 1.
+Pluck;Flying;Physical;Dexterity + Brawl;Strength + 2;If the target is holding a berry, the user eats it and gains its effects.
+Poison Fang;Poison;Physical;Dexterity + Brawl;Strength + 2;Roll 5 chance dice to Badly Poison the foe.
+Poison Gas;Poison;Support;Special + Channel;None;Accuracy -1. Poison all foes.
+Poison Jab;Poison;Physical;Dexterity + Brawl;Strength + 3;Roll 3 chance dice to Poison the foe.
+Poison Powder;Poison;Support;Special + Channel;None;Accuracy -2. Poison the foe.
+Poison Sting;Poison;Physical;Dexterity + Channel;Strength + 1; Ranged. Roll 3 Chance Dice to Poison the target.
+Poison Tail;Poison;Physical;Dexterity + Brawl;Strength + 2;High Critical. Roll 1 chance die to Poison the foe.
+Pollen Puff;Bug;Special;Special + Channel;Special + 3;When this move is used against and ally, it will heal 1 HP instead of dealing damage.
+Pound;Normal;Physical;Dexterity + Brawl;Strength + 2;None
+Powder;Bug;Support;Insight + Nature;None;Add 3 dice to the damage pool of the next Fire-type move that hits the target.
+Powder Snow;Ice;Special;Dexterity + Channel;Special + 2;Target all foes. roll 1 chance die to Freeze all foes.
+Power Gem;Rock;Special;Dexterity + Channel;Special + 3;None.
+Power Split;Psychic;Support;Special + Channel;None;Average the user's Strength and Special with the foe.
+Power Swap;Psychic;Support;Special + Channel;None;Switch the user's Strength and Special with the foe.
+Power Trick;Psychic;Support;Special + Channel;None;Switch the user's Strength with its Defense, and its Special with its Sp. Defense.
+Power Whip;Grass;Physical;Dexterity + Brawl;Strength + 5;Accuracy -2.
+Power-up Punch;Fight;Physical;Dexterity + Brawl;Strength + 2;Fist based. Increase the user's Strength by 1.
+Present;Normal;Physical;Cute + Allure;None;Accuracy -1. Flip a coin. If heads, deal 2 set damage to the target. If tails, heal the target for 2 HP.
+Prismatic Laser;Psychic;Special;Dexterity + Channel;Special + 6;Lethal. Must Recharge.
+Protect;Normal;Support;Will + Channel;None;Priority 5. Shield Move. Reduce 3 damage the user would recieve from a damaging move. Negate the effect of Status moves that target the user. Reduce to 0 the set damage from a move the user would take.
+Psybeam;Psychic;Special;Dexterity + Channel;Special + 2;Roll 1 chance die to Confuse the foe.
+Psych Up;Normal;Support;Insight + Channel;None;Copy the target's Attribute and Trait Modifiers, and keep them until the end of the scene.
+Psychic;Psychic;Special;Dexterity + Channel;Special + 3;Roll 1 chance die to reduce the foe's Sp. Defense by 1.
+Psychic Fangs;Psychic;Physical;Dexterity + Brawl;Strength + 3;If a barrier is active on the foe's side of the battlefield, destroy it.
+Psychic Terrain;Psychic;Support;Special + Channel;None;For the next 4 rounds, all Psychic-type attacks deal 1 extra dice of damage, and pokemon on the ground cannot use moves with positive Priority.
+Psycho Boost;Psychic;Special;Dexterity + Channel;Special + 6*;Accuracy -1. Lethal. Reduce the user's Special by 2.
+Psycho Cut;Psychic;Physical;Dexterity + Brawl;Strength + 3;High Critical.
+Psycho Shift;Psychic;Support;Clever + Channel;None;Transfer the user's Status Conditions to the foe. The user is cured.
+Psyshock;Psychic;Special;Dexterity + Channel;Special + 3;This move is resisted with the foe's Defense instead of Sp. Defense.
+Psystrike;Psychic;Special;Dexterity + Channel;Special + 4;This move is resited with the foe's Defense instead of Sp. Defense.
+Psywave;Psychic;Special;Insight + Channel;Varies;Roll damage dice according to the user's rank: Starter: 1 die, Beginner: 2 dice, Amateur: 3 dice, Ace: 4 dice, Pro: 5 dice. Ignores Defense.
+Punishment;Dark;Physical;Dexterity + Brawl;Strength + 1;Add up to 7 dice to the damage pool for every increased Attribute the foe has.
+Purify;Poison;Support;Special + Nature;None;Heal a target's Status Condition. If you do, the user may heal 1 HP.
+Pursuit;Dark;Physical;Dexterity + Brawl;Strength + 2*; If the foe is switching out or ascaping, add 2 dice to the damage pool, and add Priority 1 to this move.
+Pyro Ball;Fire;Special;Strength + Channel;Strength + 5;Accuracy -1. Roll 1 chance die to Burn(2) the foe.
+Quash;Dark;Support;Tough + Intimidate;None;For the rest of the scene, the target will go last in the initiative order.
+Quick Attack;Normal;Physical;Dexterity + Brawl;Strength + 2;Priority 1.
+Quick Guard;Fight;Support;Dexterity + Athletic;None;Priority 3. Shield Move. Reduce 3 damage from a damaging move the user and allies would take. Negate the effects of Support moves that target the user and allies. This move only works against moves with positive Priority.
+Quiver Dance;Bug;Support;Beauty + Perform;None;Increase the user's Dexterity, Special, and Sp. Defense by 1.
+Rage;Normal;Physical;Dexterity + Brawl;Strength + 1;If the user receives damage after using this move, increase the user's Strength by 1. This effect stacks up to 3 times.
+Rage Powder;Bug;Support;Insight + Intimidate;None;Priority 2. During this round, all damaging moves from any foe must target the user.
+Rain Dance;Water;Support;Special + Nature;None;Rain Weather is activated for the next 4 rounds.
+Rapid Spin;Normal;Physical;Dexterity + Brawl;Strength + 2;Remove Entry Hazards and Leech Seed from the user's side of the field. Increase user's Dexterity by 1.
+Razor Leaf;Grass;Physical;Dexterity + Channel;Strength + 2;Ranged. High Critical. Hits all foes.
+Razor Shell;Water;Physical;Dexterity + Brawl;Strength + 3;Roll 1 chance dice to reduce the foe's Defense by 1.
+Razor Wind;Normal;Special;Dexterity + Channel;Special + 3;High Critical. Charge. Hits all foes.
+Recover;Normal;Support;Special + Nature;None;Basic Heal. If succesful, spend 1 Will point to activate.
+Recycle;Normal;Support;Vitality + Nature;None;The pokemon reuses an item that has already been spent. An item may not be recycled more than 5 times.
+Reflect;Psychic;Support;Special + Channel;None;User and allis will receive 1 less damage from physical attacks. Lasts 4 rounds.
+Reflect Type;Normal;Support;Special + Channel;None;The pokemon is now that same type as one of its foes. Lasts for a scene or until this move is used again.
+Refresh;Normal;Support;Will + Channel;None;The user cures itself from Poison, Burn, or Paralysis.
+Relic Song;Normal;Special;Special + Perform;Special + 2;Sound based. Hits all foes. Roll 1 chance die to put all foes to Sleep. If successful, the user may change form afterwards.
+Rest;Psychic;Support;Vitality + Nature;None;Complete Heal. If succesful, spend 1 Will point to activate. The user must spend a whole round asleep.
+Retaliate;Normal;Physical;Dexterity + Brawl;Strength + 3*;If an ally fainted in this or the previous round, add 3 extra dice to the damage pool. This effect can only be used once per ally.
+Return;Normal;Physical;Dexterity + Brawl;Strength + 0*;Add 1 die to the damage pool for every point of Happiness on the user.
+Revelation Dance;Normal;Special;Dexterity + Perform;Special + 3;This move's type changes to match the user's Primary type.
+Revenge;Fight;Physical;Dexterity + Brawl;Strength + 2*;If the user has already received damage this round, add 2 extra dice to the damage pool.
+Reversal;Fight;Physical;Dexterity + Brawl;Strength + 1*;Add 1 extra die to the damage pool for every missing HP the user has. Up to 5 dice may be added this way.
+Roar;Normal;Support;Tough + Intimidate;None;Priority -6. In the world, the battle ends. In official fight, the foe switches out. If it's the last or only pokémon on its team, the move fails. Switcher move.
+Rock Blast;Rock;Physical;Dexterity + Brawl;Strength + 1;Accuracy -1. Ranged. Multiple Actions (5).
+Rock Climb;Normal;Physical;Dexterity + Brawl;Strength + 3;Accuracy -2. Roll 2 chance dice to Confuse the foe. Outside of battle, it allows the user to climb with ease.
+Rock Polish;Rock;Support;Dexterity + Channel;None;Increase the user's Dexterity by 1.
+Rock Slide;Rock;Physical;Dexterity + Brawl;Strength + 3;Accuracy -1. Hits all foes. Ranged. Roll 3 chance dice to Flinch the foes.
+Rock Smash;Fight;Physical;Dexterity + Brawl;Strength + 2;Roll 5 chance dice to reduce the foe's Defense by 1.
+Rock Throw;Rock;Physical;Dexterity + Channel;Strength + 2;Accuracy -1. Ranged.
+Rock Tomb;Rock;Physical;Dexterity + Channel;Strength + 2;Accuracy -1. Ranged. Reduce the foe's Dexterity by 1.
+Rock Wrecker;Rock;Physical;Strength + Channel;Strength + 6;Accuracy -1. Ranged. Must Recharge. Lethal.
+Role Play;Psychic;Support;Clever + Perform;None;Copy the foe's Ability. Some Abilities cannot be copied.
+Rolling Kick;Fight;Physical;Dexterity + Brawl;Strength + 2;Accuracy -2. Roll 3 chance dice to Flinch the foe.
+Rollout;Rock;Physical;Dexterity + Brawl;Strength + 1;Accuracy -1. Multiple Actions (5). Add 1 extra die to the damage roll for every previous use this round. If the user used Defense Curl this round, add 1 extra die the damage pool.
+Roost;Flying;Support;Insight + Nature;None;Basic Heal. Until the user's next action, it will be vulnerable to Ground-type moves.
+Rototiller;Ground;Support;Special + Nature;None;Increase the Strength and Special of all Grass-type pokemon on the battlefield by 1.
+Round;Normal;Special;Special + Perform;Special + 2*;If the user and an ally are able to use Round, they may choose to use it at thge same time. If they do, add 3 extra dice to the damage pool of both pokemon.
+Sacred Fire;Fire;Physical;Dexterity + Channel;Strength + 4;Lethal. Roll 5 chance dice to Burn(3) the foe.
+Sacred Sword;Fight;Physical;Dexterity + Brawl;Strength + 3;Ignore any increases to the foe's Defense.
+Safeguard;Normal;Support;Special + Channel;None;For the next 4 rounds, the user and allies are immune to Status Conditions. Conditions previously inflicted remain.
+Sand Attack;Ground;Support;Dexterity + Channel;None;The foe gets 1 succes removed from all accuracy rolls.
+Sand Tomb;Ground;Physical;Dexterity + Channel;Strength + 2;Accuracy -2. Ranged. Blocks. At the end of the round, roll 2 dice of damage against the foe. Lasts 4 rounds.
+Sandstorm;Rock;Support;Special + Nature;None;Sandstorm Weather is activated for the next 4 rounds.
+Sappy Seed;Grass;Physical;Special + Brawl;Strength + 3;Accuracy -1. At the end of the round, roll 1 die of damage against the foe. Restore HP to the user for every damage dealt this way. If the user is at its final stage of evolution, this move fails.
+Scald;Water;Special;Dexterity + Channel;Strength + 3;Roll 1 chance die to reduce the foe's Defense by 1.
+Scary Face;Normal;Support;Tough + Intimidate;None;Reduce the foe's Dexterity by 2.
+Scratch;Normal;Physical;Dexterity + Brawl;Strength + 2;None
+Screech;Normal;Support;Tough + Perform;None;Sound based. Reduce the foe's Defense by 2.
+Searing Shot;Fire;Special;Special + Channel;Special + 5;Lethal. Hits all foes. Roll 3 chance dice to Burn(2) the targets.
+Secret Sword;Fight;Special;Dexterity + Channel;Special + 3;Apply the foe's Defense instead of its Sp. Defense to resist damage from this move.
+Seed Bomb;Grass;Physical;Dexterity + Brawl;Strength + 3;Ranged.
+Seed Flare;Grass;Special;Special + Channel;Special + 5;Lethal. Roll 4 chance dice to reduce the foe's Sp. Defense by 2.
+Seismic Toss;Fight;Physical;Strength + Athletic;Varies;Roll damage dice according to the user's rank: Starter: 1 die. Beginner: 2 dice. Amateur: 3 dice. Ace: 4 dice. Pro: 5 dice. Ignore the foe's defenses.
+Self Destruct;Normal;Physical;Strength + Brawl;Strength + 8;Area attack. After performing this move, the user receives damage equal to its remaining HP.
+Shadow Ball;Ghost;Special;Dexterity + Channel;Special + 3;Roll 1 chance die to reduce the foe's Sp. Defense by 1.
+Shadow Bone;Ghost;Physical;Dexterity + Brawl;Strength + 3;Roll 2 chance dice to reduce the foe's Defense by 1.
+Shadow Claw;Ghost;Physical;Dexterity + Brawl;Strength + 3;High Critical.
+Shadow Punch;Ghost;Physical;Dexterity + Brawl;Strength + 2;Fist based. Never fails.
+Shadow Sneak;Ghost;Physical;Dexterity + Brawl;Strength + 2;Priotity 1.
+Sheer Cold;Ice;Special;Special + Channel;Varies;Accuracy -5. Deal damage equal to the target's remaining HP plus 1 Lethal damage.
+Shell Smash;Normal;Support;Strength + Brawl;None;Increase the user's Strength, Special, Dexterity by 2. Reduce the user's Defense and Sp. Defence by 2.
+Shell Trap;Fire;Special;Dexterity + Stealth;Special + 6;Priority -3. Lethal. This move strikes the next time the user is hit with a non-Ranged Physical attack.
+Shock Wave;Electric;Special;Dexterity + Channel;Special + 2;Never fails.
+Shore Up;Ground;Support;Insight + Nature;None;Basic Heal. If Sandstorm Weather is active, this move is a Complete Heal instead.
+Signal Beam;Bug;Special;Special + Channel;Special + 3;Roll 1 chance die to confuse the foe.
+Silver Wind;Bug;Special;Dexterity + Channel;Special + 2;Roll 1 chance die to increase the user's Strength, Dexterity, Special, Defense, and Sp. Defense.
+Sing;Normal;Support;Cute + Perform;None;Accuracy -3. Sound based. Inflict Sleep on the target.
+Sizzly Slide;Fire;Physical;Dexterity + Brawl;Strength + 3;Burn(1) the foe. If the user of this move is at its final stage of evolution, this move fails.
+Sketch;Normal;Support;Dexterity + Perform;None;Permanently copies a move the target used. Once copied, "Sketch" disappears.
+Skill Swap;Psychic;Support;Clever + Perform;None;Switch Abilities with the foe. Some abilities cannot be switched.
+Sky Attack;Flying;Physical;Strength + Brawl;Strength + 6;Accuracy -1. Lethal. High Critical. Charge Move. Roll 3 chance dice to Flinch the foe.
+Sky Drop;Flying;Physical;Dexterity + Brawl;Strength + 2;Charge Move. The foe is Flinched while this move is charging. If the foe is a Flying-type, or is heavier than the user can lift, this move fails.
+Sky Uppercut;Fight;Physical;Dexterity + Brawl;Strength + 3;Accuracy -1.
+Slam;Normal;Physical;Dexterity + Brawl;Strength + 3;Accuracy -2.
+Slash;Normal;Physical;Dexterity + Brawl;Strength + 3;High Critical. Lethal.
+Sleep Powder;Grass;Support;Special + Nature;None;Accuracy -2. Put the foe to Sleep.
+Sleep Talk;Normal;Support;Varies;Varies;Use one of the user's moves at random, against random targets. Fails if the user is not Asleep.
+Sludge;Poison;Special;Dexterity + Channel;Special + 2;Roll 3 chance dice to Poison the foe.
+Sludge Bomb;Poison;Special;Dexterity + Channel;Special + 3;Roll 3 chance dice to Poison the foe.
+Sludge Wave;Posion;Special;Cexterity + Channel;Special + 3;Area Attack. Roll 1 chance die to Poison the targets.
+Smack Down;Rock;Physical;Dexterity + Channel;Strength + 2;Ranged. Remove the foe's immunity the Ground-type attacks.
+Smart Strike;Steel;Physical;Dexterity + Brawl;Strength + 3;Lethal. Never fails.
+Smelling Salts;Normal;Physical;Dexterity + Brawl;Strength + 3*;If the foe is Paralyzed, add 2 dice to the damage pool, then heal the foe's Paralysis.
+Smog;Poison;Special;Dexterity + Channel;Special + 1;Accuracy -2. Roll 4 chance dice to Poison the foe.
+Smokescreen;Normal;Support;Special + Channel;None;The foe gets 1 success removes from all its Accuracy rolls.
+Snap Trap;Grass;Physical;Dexterity + Stealth;Strength + 2;The foe is Blocked for the next 4 rounds.
+Snarl;Dark;Special;Insight + Perform;Special + 2;Sound based. Reduce the foe's Special by 1.
+Snatch;Dark;Support;Clever + Stealth;None;Remove all increases and decreases to the foe's Traits. The user gains those increases and decreases instead.
+Snipe Shot;Water;Special;Dexterity + Channel;Special + 3;High Critical. Ignore effects from moves or Abilities that would prevent this move from targeting a foe.
+Snore;Normal;Special;Special + Perform;Special + 2;Sound based. Roll 3 chance dice to Flinch the foe. Fails if the user is not Asleep.
+Soak;Water;Support;Special + Channel;None;Change the foe's type to Water-type.
+Soft Boiled;Normal;Support;Insight + Nature;None;Basic Heal.
+Solar Beam;Grass;Special;Special + Channel;Special + 5;Charge Move. If Sunny Weather is active, you skip this move's Charge action. If rain or Hail Weather is active, this move takes two actions to charge.
+Solar Blade;Grass;Physical;Strength + Brawl;Strength + 5;Charge Move. If Sunny Weather is active, you skip this move's Charge action. If rain or Hail Weather is active, this move takes two actions to charge.
+Sonic Boom;Normal;Special;Dexterity + Channel;Set Damage;This move always inflicts 1 damage.
+Spark;Electric;Physical;Dexterity + Brawl;Strength + 2;Roll 3 chance dice to Paralyze the foe.
+Sparkling Aria;Water;Special;Special + Perform;Special + 3;Area Attack. Sound based. If an affected pokemon is Burned, heal the Burn instead of dealing damage.
+Speed Swap;Psychic;Support;Special + Channel;None;Switch the user's Dexterity with the foe.
+Spider Web;Bug;Support;Insight + Stealth;None;Blocks.
+Spike Cannon;Normal;Physical;Dexterity + Brawl;Strength + 1;Ranged. Multiple Actions (5).
+Spikes;Ground;Support;Special + Nature;None;Entry Hazard. Foes that enter the battlefield lose 1 HP. This effect does not stack. Pokemon with the levitate ability and Flying-type pokemon are immune to this effect.
+Spiky Shield;Grass;Support;Dexterity + Brawl;None;Priority 3. Shield Move. Reduce 3 damage the user would take from a damaging move. If the foe used a non-Ranged Physical move, roll 2 dice of damage against it.
+Spit Up;Normal;Special;Dexterity + Channel;Special + 4;Must have used the move "Stockpile" prior to this move, otherwise it will fail. Lose all Stockpile modifiers.
+Spite;Ghost;Support;Will + Intimidate;None;Reduce the foe's Will to 1 point. reset any effects it got from spending Will points.
+Splash;Normal;Support;Dexterity + Brawl;None;None
+Splishy Splash;Water;Special;Dexterity + Channel;Special + 3;Roll 3 chance dice to Paralyze the foe. If the user is at its final evolution stage, this move fails.
+Spore;Grass;Support;Special + Nature;None;Put the target to Sleep.
+Spotlight;Normal;Support;Cool + Perform;None;Priority 3. Foes will target target Ally this turn.
+Stealth Rock;Rock;Support;Dexterity + Stealth;None;Entry Hazard. Foes that enter the battlefield lose 1 HP. This effect does not stack.
+Steam Eruption;Water;Special;Dexterity + Channel;Special + 4;Accuracy -1. Lethal. Roll 3 chance dice the Burn(2) the foe.
+Steamroller;Bug;Physical;Dexterity + Brawl;Strength + 2;Roll 3 chance dice to Flinch the foe.
+Steel Beam;Steel;Special;Special + Channel;Special + 6;Recoil.
+Steel Wing;Steel;Physical;Dexterity + Brawl;Strength + 3;Accuracy -1. Roll 1 chance die to increase the user's Defense by 1.
+Sticky Web;Bug;Support;Insight + Nature;None;Hits all foes. Reduce the Dexterity of all foes by 1.
+Stockpile;Normal;Support;Insight + Nature;None;Increase the user's Defense and Sp. Defense by 1.
+Stomp;Normal;Physical;Dexterity + Brawl;Strength + 2;Roll 3 chance dice to Flinch the foe.
+Stomping Tantrum;Ground;Physical;Dexterity + Brawl;Strength + 3*;Add 2 extra dice to the damage pool if the user failed the Accuracy roll of the last move it performed.
+Stone Edge;Rock;Physical;Strength + Channel;Strength + 4;Accuracy -2. Ranged. High Critical. Lethal.
+Stored Power;Psychic;Special;Dexterity + Channel;Special + 1*;Add 1 extra die to the damage pool for each point increased Attributes of the user. Up to 7 dice may be added in this way.
+Storm Throw;Fight;Physical;Dexterity + Brawl;Strength + 2;If the Accuracy Roll is successful, this move becomes a critical hit.
+Strength;Normal;Physical;Strength + Brawl;Strength + 3;Outside of battle, this move allows the pokemon to lift double the normal weight it should be able to.
+Strength Sap;Grass;Support;Insight + Nature;None;If successful, spend 1 Will point to activate. Reduce the foe's Strength by 1. The user heals HP equal to the foe's current Strength.
+String Shot;Bug;Support;Insight + Nature;None;Reduce all foes' Dexterity by 1.
+Struggle Bug;Bug;Special;Dexterity + Channel;Special + 1;Reduce the foe's Special by 1.
+Stuff Cheeks;Normal;Support;Clever + Nature;None;The user eats its held berry and gains its effects. Afterwards, increase the user's Defense by 2.
+Stun Spore;Grass;Support;Special + Nature;None;Paralyze the foe.
+Submission;Fight;Physical;Dexterity + Brawl;Strength + 3;Accuracy -2. Recoil.
+Substitute;Normal;Support;Dexterity + Stealth;None;Deal 2 damage to the user and put a decoy with 2 HP and the same defenses as the user in front of it. The decoy takes damage instead of the user, and can only be affected by damaging moves.
+Sucker Punch;Dark;Physical;Dexterity + Brawl;Strength + 3;Priority 1. This move can only be used after the target rolls a damaging move.
+Sunny Day;Fire;Support;Special + Nature;None;Sunny Weather is activated for the next 4 rounds.
+Super Fang;Normal;Physical;Dexterity + Brawl;Varies;Accuracy -1. Add extra dice to the damage pool equal to half the foe's remaining HP. Up to 10 dice may be added this way. Ignores the foes defenses.
+Superpower;Fight;Physical;Strength + Brawl;Strength + 5;Lethal. Reduce the user's Strength and Defense by 1.
+Supersonic;Normal;Support;Tough + Channel;None;Accuracy -3. Confuse the foe.
+Surf;Water;Special;Dexterity + Channel;Special + 3;Area Attack.
+Swagger;Normal;Support;Tough + Intimidate;None;Increase the foe's Strength by 2. Inflicts Confusion.
+Swallow;Normal;Support;Vitality + Nature;None;Must have used the move "Stockpile" prior to this move, otherwise it will fail. If succesful, spend 1 Will point to activate. Heal up to 2 damage from the user. Loses the effects of Stockpile. The user must rest an hour before using this move again.
+Sweet Kiss;Fairy;Support;Cute + Allure;None;Confuse the foe.
+Sweet Scent;Normal;Support;Special + Nature;None;Targets all foes. Foes cannot evade moves performed by the user. Outside of battle, it will attract wild pokémon.
+Swift;Normal;Special;Dexterity + Channel;Special + 2;Never fails. Hits all foes.
+Switheroo;Dark;Support;Insight + Stealth;None;User and foe switch their Held Items, even if only one is holding any.
+Swords Dance;Normal;Support;Dexterity + Perform;None;Increase the user's Strength by 2.
+Synchronoise;Psychic;Special;Special + Perform;Special + 5;Sound based. Area Attack.Choose a type. This move only affects those with that type.
+Synthesis;Grass;Support;Special + Nature;None;Basic Heal. If succesful, spend 1 Will point to activate. If Sunny Weather, this move becomes a Complete Heal. If Rain/Sandstorm Weather, this move only heals 1 HP.
+Tackle;Normal;Physical;Dexterity + Brawl;Strength + 2;None
+Tail Glow;Bug;Support;Insight + Nature;None;Increase the user's Special by 3.
+Tail Slap;Normal;Physical;Dexterity + Brawl;Strength + 1;Accuracy -1. Multiple Actions (5).
+Tail Whip;Normal;Support;Cute + Perform;None;Reduce all foes' Defense by 1.
+Tailwind;Flying;Support;Insight + Nature;None;Increase the dexterity of everyone on the user's side of the field by 2. Lasts 4 rounds.
+Take Down;Normal;Physical;Dexterity + Brawl;Strength + 3;Accuracy -2. Recoil.
+Tar Shot:Rock;Support;Special + Channel;None;Reduce the foe's Dexterity by 1. Until the end of the scene, Fire-type moves will deal Super Effective damage against the foe.
+Taunt;Dark;Support;Tough + Intimidate;None;The foe can only perform damaging moves and evasion actions for the next 4 rounds.
+Tearful Look;Normal;Support;Cute + Allure;None;Reduce the foe's Strength and Special by 1.
+Teatime;Normal;Support;Insight + Etiquette;None;Area Attack. All targets eat their held berries without gaining their effects. Outside of battle, this move difffuses violent intentions for a few minutes.
+Techno Blast;Normal;Special;Dexterity + Channel;Special + 5;Lethal. If Genesect is performing this move, this move's type changes according to the held Drive.
+Teeter Dance;Normal;Support;Dexterity + Perform;None;Area Attack.Confuse all targets.
+Telekinesis;Psychic;Support;Special + Channel;None;All attacks against the target have "Never Fails." The target is immune to Ground-type moves. Lasts 2 rounds.
+Teleport;Psychic;Support;Special + Channel;None;In the wild, the battle ends. In official battle,the user is recalled. Teleportation distances depend on Special. Ask the GM.
+Thief;Dark;Physical;Dexterity + Brawl;Strength + 2;The user steals the foe's Held item.
+Thousand Arrows;Ground;Physical;Strength + Channel;Strength + 3;Lethal. Ranged. Hits all foes. Flying and levitating pokemon can be hit by Ground-type moves for the rest of the scene.
+Thousand Waves;Ground;Physical;Special + Brawl;Strength + 3;Blocks. Ranged. Hits all foes.
+Thrash;Normal;Physical;Strength + Brawl;Strength + 5;Target random foe. Rampage.
+Throat Chop;Dark;Physical;Dexterity + Brawl;Strength + 3;The foe cannot use any Sound based moves for the rest of the scene.
+Thunder;Electric;Special;Special + Channel;Special + 5;Accuracy -2. Lethal. Roll 3 chance dice to Paralyze the foe. If Sunny Weather is acitve, Accuracy is -3 instead. If Rain Weather is active, ignore the reduced Accuracy of this move.
+Thunder Fang;Electric;Physical;Dexterity + Brawl;Strength + 2;Roll 2 chance dice to Flinch the foe. Roll 2 chance dice to Paralyze the foe.
+Thunder Punch;Electric;Physical;Dexterity + Brawl;Strength + 3;Fist based. Roll 1 chance die to Paralyze the foe.
+Thunder Shock;Electric;Special;Dexterity + Channel;Special + 2;Roll 1 chance die to Paralyze the foe.
+Thunder Wave;Electric;Support;Insight + Nature;None;Accuracy -1. Paralyze the foe.
+Thunderbolt;Electric;Special;Dexterity + Channel;Special + 3;Roll 1 chance die to Paralyze the foe.
+Tickle;Normal;Support;Dexterity + Brawl;None;Reduce the foe's Strength and Defense by 1.
+Torment;Dark;Support;Tough + Intimidate;None;The target cannot use the same move it used during the last round. Lasts 4 rounds.
+Toxic;Poison;Support;Special + Channel;None;Accuracy -1;Badly Poison the foe.
+Toxic Spikes;Poison;Support;Dexterity + Stealth;None;Entry Hazard. Foes that enter the battlefield become Poisoned.Roll 1 chance die for them to become Badly Poisoned instead.
+Transform;Normal;Support;Will + Channel;None;This user transforms into a copy of its target with same Ability, Attributes, Trait Modifiers, and Moves. Being inside a pokeball breaks the transformation.
+Tri Attack;Normal;Special;Dexterity + Channel;Special + 3;Roll 2 chance dice to Paralyze the foe. Roll 2 chance dice to Burn(1) the foe. Roll 2 chance dice to Freeze the foe.
+Trick;Psychic;Support;Special + Allure;None;The foe and the user swap held items.
+Trick Room;Psychic;Support;Special + Channel;None;Invert the order of initiative. Lasts 4 rounds.
+Trick-or-Treat;Ghost;Support;Will + Allure;None;Add the Ghost-type to the target's type. If the pokémon already has a third type attached, replace it.
+Triple Kick;Fight;Physical;Dexterity + Brawl;Strength + 1;Accuracy -1. Multiple Actions (5). Add 1 die to the damage pool of the last kick performed.
+Trump Card;Normal;Special;Will + Channel;Special + 2;If the user's Will points are at half or less. Add 1 die to the damage pool. If its Will points are depleted, add 8 extra dice to the damage pool instead.
+Twineedle;Bug;Physical;Dexterity + Brawl;Strength + 1;Double Action. Ranged. Roll 2 chance dice to Poison the foe.
+Twister;Dragon;Special;Dexterity + Channel;Special +2;Roll 2 chance dice to flinch the foe.
+U-Turn;Bug;Physical;Dexterity + Brawl;Strength + 3;Switcher Move. The user switches out after dealing damage. The replacement pokemon arrives ready to fight, roll its initiative.
+Uproar;Normal;Special;Dexterity + Channel;Special + 3;Sound based. Target random foe.Everyone on the field is immune to Sleep until the end of the round. Wake all sleeping pokemon.
+V-Create;Fire;Physical;Strength + Brawl;Strength + 7;Reduce the user's Dexterity, Defense, and Sp. Defense by 1.
+Vacuum Wave;Fight;Special;Dexterity + Channel;Special + 2;Priority 1.
+Veevee Volley;Normal;Physical;Dexterity + Brawl;Strength + 0*;Add 1 die to the damage pool for every point of Happiness on the user. If the user is at the final stage of evolution, this move fails.
+Venom Drench;Poison;Support;Special + Channel;None;Hits all foes. If an affected for is Poisoned or becomes Poisoned in the same round you used this move, reduce its Strength, Special, Dexterity by 1.
+Venoshock;Poison;Special;Dexterity + Channel;Special + 2;If the foe is already Poisoned, add 2 extra dice to the damage pool.
+Vice Grip;Normal;Physical;Dexterity + Brawl;Strength + 2;None.
+Vine Whip;Grass;Physical;Dexterity + Brawl;Strength + 2;None
+Vital Throw;Fight;Physical;Dexterity + Brawl;Strength + 2;Priority -1. Never fails.
+Volt Switch;Electric;Special;Dexterity + Channel;Special + 2;Switcher Move. The user switches out after dealing damage. The new pokemon arrives rady to fight on the next round.
+Volt Tackle;Electric;Physical;Strength + Brawl;Strength + 5;Recoil. Roll 1 chance die to Paralyze the foe.
+Wake-Up Slap;Fight;Physical;Dexterity + Brawl;Strength + 2;If the foe is Sleeping, add 2 extra dice to the damage pool. The foe wakes up afterwards.
+Water Gun;Water;Special;Dexterity + Channel;Special + 2;None
+Water Pledge;Water;Special;Dexterity + Channel;Special + 2;Area Attack. All pokemon add 2 dice to all chance rolls for the next 4 turns.
+Water Pulse;Water;Special;Dexterity + Channel;Special + 2;Roll 3 chance dice to Confuse the foe.
+Water Shuriken;Water;Special;Dexterity + Channel;Special + 1;Priority 1. Ranged. Multiple Actions (5).
+Water Sport;Water;Support;Special + Channel;None;For the next 4 rounds, Fire type attacks won't add their power to the damage pool.
+Water Spout;Water;Special;Dexterity + Channel;Special + 6*;Hits all foes. Remove 1 die from the damage pool for every HP the user is missing. Up to 5 dice may be removed this way.
+Waterfall;Water;Physical;Dexterity + Brawl;Strength + 3;Roll 3 chance dice to Flinch the foe.
+Weather Ball;Normal;Special;Dexterity + Nature;Special + 2*;If there is active Weather, add 2 extra dice to the damage pool. This move's type will change accordingly: Sunny: Fire. Rain: Water. Hail: Ice. Sandstorm: Rock. Wind: Flying.
+Whirlpool;Water;Special;Dexterity + Channel;Special + 2;Accuracy -2. Blocks. Deal 2 dice of damage at the end of each round. Lasts 4 rounds.
+Whirlwind;Normal;Support;Dexterity + Nature;None;Priority -6. In the world, the battle ends. In official fight, the foe switches out. If it's the last or only pokémon on its team, the move fails. Switcher move.
+Wide Guard;Rock;Support;Vitality + Brawl;None;Priority 3. Shield Move. Reduce 3 damage the user and allies would receive from a damaging move. Reduce the set damage of a move the user and allies would take to zero.
+Wild Charge;Electric;Physical;Dexterity + Brawl;Strength + 3;Recoil.
+Will-o-Wisp;Fire;Support;Dexterity + Channel;None;Accuracy -2. Burn(1) the foe.
+Wing Attack;Flying;Physical;Dexterity + Brawl;Strength + 2;None
+Wish;Normal;Support;Will + Channel;None;Basic Heal. This move has its effect at the beginning of the next round.
+Withdraw;Water;Support;Vitality + Brawl;None;Increase user's Defense by 1.
+Wonder Room;Psychic;Support;Special + Channel;None;Swap the Defense and Sp. Defense of all pokemon. Attribute increases are not swapped. Lasts 4 rounds.
+Wood Hammer;Grass;Physical;Strength + Brawl;Strength + 5;Recoil.
+Work Up;Normal;Support;Strength + Athletic;None;Increase the user's Strength and Special by 1.
+Worry Seed;Grass;Support;Special + Nature;None;Until the end of the scene, the foe's ability is "Insomnia".
+Wrap;Normal;Physical;Dexterity + Brawl;Strength + 1;Accuracy -1. Blocks. Roll 2 dice of damage against the foe at the end of each round. Lasts 4 rounds.
+Wring Out;Normal;Physical;Strength + Brawl;Strength + 5*;Remove 1 die from the damage pool for every missing HP on the foe. Up to 4 dice may be removed in this way.
+X-Scissor;Bug;Physical;Strength + Brawl;Strength + 3;None.
+Yawn;Normal;Support;Special + Channel;None;If the foe is not removed from the battle at the beginning of the next round, it will fall asleep.
+Zap Cannon;Electric;Special;Dexterity + Channel;Special + 5;Accuracy -3. Lethal. Paralyze the foe.
+Zen Headbutt;Psychic;Physical;Dexterity + Brawl;Strength + 3;Accuracy -1. Roll 3 chance dice to Flinch the foe.
+Zing Zap;Electric;Physical;Dexterity + Brawl;Strength + 3;Roll 3 chance dice to Flinch the foe.
+Zippy Zap;Electric;Physical;Dexterity + Brawl;Strength + 2;Priority 2. This move is always a critical hit. If the user is at the final stage of evolution, this move fails.
